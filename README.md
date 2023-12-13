@@ -3,7 +3,7 @@
 ![image](https://github.com/VishalNimbolkar/VishalNimbolkar/assets/80448632/fca28327-b04f-4ebb-be4b-ee03691d29be)
 
 
-__Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.__
+__Hello, I'm Vishal. SQL Developer with expertise in data analysis and reporting, query optimization, database design, and data modelling.__
 
 * Querying data using SQL.
 * Generate reports and perform ad-hoc data analysis using SQL.
