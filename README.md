@@ -19,7 +19,7 @@ __Hello, I'm Vishal. SQL Developer with expertise in data analysis and reporting
   
 
 ## 👋 Connect with me
-<img src="https://www.linkedin.com/in/vishalnimbolkar/" >
+![Linkedin](https://www.linkedin.com/in/vishalnimbolkar/)
 
 
 <!--
