@@ -16,6 +16,11 @@ __Hello, I'm Vishal. SQL Developer with expertise in data analysis and reporting
 * Language: CPP
 * Database: PostgreSQL, SQL
 * Visualization: PowerBI, Excel
+  
+
+## 👋 Connect with me
+* ![linkedin](https://www.linkedin.com/in/vishalnimbolkar/)
+
 
 <!--
 **VishalNimbolkar/VishalNimbolkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
