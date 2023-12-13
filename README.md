@@ -20,6 +20,8 @@ __Hello, I'm Vishal. SQL Developer with expertise in data analysis and reporting
 
 ## 👋 Connect with me
 * <a href="https://www.linkedin.com/in/vishalnimbolkar/"> </a>
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-(https://www.linkedin.com/in/vishalnimbolkar/)-blue)(https://www.linkedin.com/in/https://www.linkedin.com/in/vishalnimbolkar/)
+
 
 
 <!--
