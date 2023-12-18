@@ -7,7 +7,7 @@ __Hello, I'm Vishal. SQL Developer with expertise in data analysis and reporting
 
 * Querying data using SQL.
 * Generate reports and perform ad-hoc data analysis using SQL.
-* Developing dashboards on Tableau and Looker Studio.
+* Developing dashboards on PowerBI and Looker Studio.
 * Data analysis and reporting using Google Sheets and Excel.
 
 
